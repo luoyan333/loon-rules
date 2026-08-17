@@ -13,6 +13,7 @@ payload:
   - 'DOMAIN,api.mmrj.plus'
   - 'DOMAIN-SUFFIX,api.xmancdn.com'
   - 'DOMAIN-SUFFIX,flowercloud.net'
+  - 'DOMAIN-SUFFIX,api-flowercloud.com'
   - 'DOMAIN,ddns.oray.com'
   - 'DOMAIN,v4.66666.host'
   - 'DOMAIN,myip.ipip.net'
